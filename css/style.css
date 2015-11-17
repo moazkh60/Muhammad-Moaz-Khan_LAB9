@@ -1,0 +1,8 @@
+table{width:100%;}
+h1{ text-align:center;}
+th, td{padding: 1rem; text-align:center;}
+thead{background-color:#6699ff;}
+.today{font-weigth: 700; background-color: #00ccff}
+div{
+	background-color:#f0f0f5;
+}
